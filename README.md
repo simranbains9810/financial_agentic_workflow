@@ -13,3 +13,6 @@ The code is written using Python 3.11.9 and requires the following packages to b
 - `crewai-tools`
 - `langchain`
 - `langchain-community`
+- `langchain_openai`
+- `torch`
+- `pandas`
